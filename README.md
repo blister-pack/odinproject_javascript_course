@@ -9,3 +9,6 @@ This might be a good way of also letting other people know how my progress went 
 -- 22/02/2024
 - Starting today w/ html boilerplate. The foundations course isn't too exciting so far.
 - After playing around with html and diving deeper than I had before, I'm starting to wonder why Django was so complicated regarding urlpattens...
+
+-- 23/02/2024
+- Doing some CSS exercises today
