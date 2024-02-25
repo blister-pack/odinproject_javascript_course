@@ -12,3 +12,12 @@ This might be a good way of also letting other people know how my progress went 
 
 -- 23/02/2024
 - Doing some CSS exercises today
+
+-- 24/02/2024
+- Felt a little tired so I only finished my CSS exercises
+
+--25/02/2024
+- Feeling tired again... I finished the cascade exercise and will see what
+else I can accomplish today.
+- Learned how to inspect and went through the google lesson to understand how
+to use the browser dev tools
