@@ -21,3 +21,6 @@ This might be a good way of also letting other people know how my progress went 
 else I can accomplish today.
 - Learned how to inspect and went through the google lesson to understand how
 to use the browser dev tools
+
+--26/02/2024
+- Starting the day with the box model lesson.
