@@ -24,3 +24,6 @@ to use the browser dev tools
 
 --26/02/2024
 - Starting the day with the box model lesson.
+
+--27/02/2024
+- Late lesson today, margin and padding exercises
