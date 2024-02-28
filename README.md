@@ -28,3 +28,6 @@ to use the browser dev tools
 --27/02/2024
 - Late lesson today, margin and padding exercises
 - Finished 1st exercise on padding
+
+--28/02/2024
+- Keep going on the CSS exercises
