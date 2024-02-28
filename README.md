@@ -30,4 +30,5 @@ to use the browser dev tools
 - Finished 1st exercise on padding
 
 --28/02/2024
-- Keep going on the CSS exercises
+- Keep going on the CSS exercises; finished margin and padding exercises
+- Getting started on Flexbox
