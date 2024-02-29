@@ -35,3 +35,4 @@ to use the browser dev tools
 
 --29/02/2024
 - Continuation of studies
+- Got started on the first flexbox exercise but I am struggling with it
