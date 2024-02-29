@@ -32,3 +32,6 @@ to use the browser dev tools
 --28/02/2024
 - Keep going on the CSS exercises; finished margin and padding exercises
 - Getting started on Flexbox
+
+--29/02/2024
+- Continuation of studies
