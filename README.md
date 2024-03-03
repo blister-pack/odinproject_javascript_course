@@ -36,3 +36,8 @@ to use the browser dev tools
 --29/02/2024
 - Continuation of studies
 - Got started on the first flexbox exercise but I am struggling with it
+
+--03/03/2024
+- Had a small break to do some hiking, hit the gym and get my head in the
+right place.
+- Will continue with the flexbox exercises and see how that goes.
