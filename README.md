@@ -41,3 +41,6 @@ to use the browser dev tools
 - Had a small break to do some hiking, hit the gym and get my head in the
 right place.
 - Will continue with the flexbox exercises and see how that goes.
+
+--04/03/2024
+- Spent most of the day applying to jobs. Still wanted to program here.
