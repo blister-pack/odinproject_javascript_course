@@ -44,3 +44,9 @@ right place.
 
 --04/03/2024
 - Spent most of the day applying to jobs. Still wanted to program here.
+
+--05/03/2024
+- Applications, 20 min of study. Better than nothing I guess
+
+--06/03/2024
+- Sent some applications again

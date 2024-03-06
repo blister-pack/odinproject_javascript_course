@@ -15,14 +15,13 @@
 }
 
 .left-links {
-  justify-content: left;
-  flex: auto;
+  justify-content: flex-end;
+  
 }
 
 .right-links {
   background-color: red;
-  flex: auto;
-  text-align: right;
+  justify-content: flex-end;
 }
 
 ul {
