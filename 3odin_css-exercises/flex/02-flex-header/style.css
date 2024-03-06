@@ -4,6 +4,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 10px 10px;
 }
 
 .logo {
@@ -15,13 +16,11 @@
 }
 
 .left-links {
-  justify-content: flex-end;
-  
+  flex: auto;
 }
 
-.right-links {
-  background-color: red;
-  justify-content: flex-end;
+div.right-links {
+  flex: auto;
 }
 
 ul {
@@ -31,6 +30,14 @@ ul {
   margin: 10px;
   padding: 5px;
   gap: 20px;
+}
+
+.left-links ul {
+  justify-content: left;
+}
+
+.right-links ul {
+  justify-content: right;
 }
 
 a {
