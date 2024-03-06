@@ -50,3 +50,4 @@ right place.
 
 --06/03/2024
 - Sent some applications again
+- Finished flex 2 (finally) and started 3
