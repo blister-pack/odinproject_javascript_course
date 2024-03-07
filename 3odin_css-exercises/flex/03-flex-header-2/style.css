@@ -30,6 +30,30 @@ body {
   font-style: italic;
 }
 
+.left_elements {
+  display: flex;
+  flex: auto;
+  gap: 16px;
+  align-items: center;
+  justify-content: left;
+  margin: 8px;
+}
+
+.right_elements {
+  display: flex;
+  flex: auto;
+  gap: 16px;
+  align-items: center;
+  justify-content: right;
+  margin: 8px;
+}
+
+/* .right_elements .notifications,
+.right_elements .profile-image {
+  justify-content: right;
+  align-items: center;
+} */
+
 button {
   border: none;
   border-radius: 8px;
@@ -47,15 +71,5 @@ a {
 ul {
   list-style-type: none;
   display: flex;
-  gap: 10px;
-}
-
-.left_elements {
-  flex: auto;
-}
-
-.right_elements {
-  flex: auto;
-  background-color: red;
   gap: 10px;
 }

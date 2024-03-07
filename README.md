@@ -51,3 +51,7 @@ right place.
 --06/03/2024
 - Sent some applications again
 - Finished flex 2 (finally) and started 3
+
+--07/03/2024
+- Gonna try to finish the flex exercises today, maybe make some applications
+later.
