@@ -55,3 +55,4 @@ right place.
 --07/03/2024
 - Gonna try to finish the flex exercises today, maybe make some applications
 later.
+- Finished exercise 3 (flex)
