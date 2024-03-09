@@ -56,3 +56,10 @@ right place.
 - Gonna try to finish the flex exercises today, maybe make some applications
 later.
 - Finished exercise 3 (flex)
+- Finished exercise 4 (flex)
+
+--08/03/2024
+- Relaxing day
+
+--09/03/2024
+- Studied German today
