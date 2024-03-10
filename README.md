@@ -66,3 +66,4 @@ later.
 
 --10/03/2024
 - Continuation of exercises
+- Exercise flex 5 progress
