@@ -63,3 +63,6 @@ later.
 
 --09/03/2024
 - Studied German today
+
+--10/03/2024
+- Continuation of exercises
