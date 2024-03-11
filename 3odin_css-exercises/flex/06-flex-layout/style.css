@@ -65,3 +65,7 @@ a {
   justify-content: center;
   align-items: center;
 }
+
+button {
+  padding: 5px;
+}
