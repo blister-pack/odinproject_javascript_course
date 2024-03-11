@@ -71,3 +71,5 @@ later.
 --11/03/2024
 - Continuation of exercises, these flex exercises are surprisingly challenging. I wish I could say I was having an easy time this early in the journey
 - Completed flex 5 exercise
+- Completed flex 6 exercise
+- Started flex 7 exercise
