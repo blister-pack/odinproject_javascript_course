@@ -73,3 +73,6 @@ later.
 - Completed flex 5 exercise
 - Completed flex 6 exercise
 - Started flex 7 exercise
+
+--12/03/2024
+- Spent a lot of time replying to some questions from a company I applied to
