@@ -5,7 +5,6 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  height: 100vh;
 }
 
 .header {
@@ -39,7 +38,6 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
-  height: 825px;
 }
 
 .card {
