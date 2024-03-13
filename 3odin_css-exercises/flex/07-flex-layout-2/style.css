@@ -31,6 +31,7 @@ body {
 
 .sidebar-cards-container {
   display: flex;
+  flex: auto;
 }
 
 .sidebar {
@@ -38,6 +39,7 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  padding: 16px;
 }
 
 .card {
@@ -50,12 +52,15 @@ body {
 .card-container {
   display: flex;
   gap: 20px;
-  flex-wrap: wrap;
 }
 ul {
   list-style-type: none;
   margin: 10px;
   padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
 }
 
 a {
