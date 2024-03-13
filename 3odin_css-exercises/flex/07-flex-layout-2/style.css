@@ -8,18 +8,24 @@ body {
 }
 
 .header {
+  display: flex;
   height: 72px;
   background: darkmagenta;
   color: white;
-  flex: 1 0 auto;
-  font-weight: bold;
+  flex: 1 0 1;
+  font-weight: 900;
+  font-size: 32px;
+  align-items: center;
 }
 
 .footer {
+  display: flex;
   height: 72px;
   background: #eee;
   color: darkmagenta;
-  flex: 1 0 auto;
+  flex: 1 1 1;
+  align-items: center;
+  justify-content: center;
 }
 
 .sidebar {
@@ -37,5 +43,4 @@ body {
 
 .card-container {
   display: flex;
-  align-items: center;
 }
