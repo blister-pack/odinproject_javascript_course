@@ -78,4 +78,4 @@ later.
 - Spent a lot of time replying to some questions from a company I applied to
 
 --13/03/2024
-- Finished final flex exercise
+- Finished final flex exercise. And it took a while and I found it quite difficult. Ouch
