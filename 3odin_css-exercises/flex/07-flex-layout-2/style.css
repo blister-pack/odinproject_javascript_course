@@ -16,6 +16,7 @@ body {
   font-weight: 900;
   font-size: 32px;
   align-items: center;
+  padding-left: 16px;
 }
 
 .footer {
@@ -28,7 +29,12 @@ body {
   justify-content: center;
 }
 
+.sidebar-cards-container {
+  display: flex;
+}
+
 .sidebar {
+  flex: 1 0 auto;
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
@@ -43,4 +49,10 @@ body {
 
 .card-container {
   display: flex;
+  gap: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
 }
