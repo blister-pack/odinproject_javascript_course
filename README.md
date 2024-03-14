@@ -78,7 +78,7 @@ later.
 - Spent a lot of time replying to some questions from a company I applied to
 
 --13/03/2024
-- Finished final flex exercise. And it took a while and I found it quite difficult. Ouch
+- Finished final flex exercise. And it took a while and I found it quite difficult. Ouch. I do feel like started to understand flexbox better, however. How and when to use containers and how flex-wrap can change the way a page looks. It was hard but it was rewarding.
 
 --14/03/2024
 - Starting the landing page project of the foundations course
