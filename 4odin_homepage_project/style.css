@@ -43,9 +43,11 @@ a {
 
 .sub-header {
   display: flex;
-  padding: 0 30px;
+  padding: 40px 30px;
   justify-content: space-between;
   align-items: center;
+  background-color: brown;
+  /* this background needs some serious changing */
 }
 
 .sub-header-left {
@@ -55,9 +57,29 @@ a {
 
 .sub-header-left button {
   /* I would love to know how to center this */
+  border-radius: 10px;
+  width: 150px;
+  height: 40px;
+  color: white;
+  background-color: rgb(219, 175, 64);
+  outline: none;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  font-size: 17px;
+  border: none;
 }
 
 .sub-header img {
   border-radius: 10px;
-  max-width: 100%;
+  width: 400px;
+}
+
+#lonely-p {
+  text-align: center;
+}
+
+.body-4cards {
+  display: flex;
+  gap: 50px;
+  justify-content: center;
 }
