@@ -79,3 +79,6 @@ later.
 
 --13/03/2024
 - Finished final flex exercise. And it took a while and I found it quite difficult. Ouch
+
+--14/03/2024
+- Starting the landing page project of the foundations course
