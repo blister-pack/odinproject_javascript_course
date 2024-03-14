@@ -54,5 +54,10 @@ a {
 }
 
 .sub-header-left button {
-  
+  /* I would love to know how to center this */
+}
+
+.sub-header img {
+  border-radius: 10px;
+  max-width: 100%;
 }
