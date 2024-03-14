@@ -3,6 +3,7 @@
 body {
   font-family: Montserrat, sans-serif;
   height: 100vh;
+  margin: 0px;
 }
 
 ul {
@@ -13,16 +14,45 @@ ul {
 
 a {
   text-decoration: none;
+  color: black;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0px 20px;
+  padding: 0px 30px;
+  /* background-color: #dab85f; */
+  background: linear-gradient(
+    90deg,
+    rgba(254, 239, 103, 1) 0%,
+    rgba(236, 217, 107, 1) 10%,
+    rgba(230, 219, 117, 1) 21%,
+    rgba(244, 225, 77, 1) 39%,
+    rgba(228, 196, 76, 1) 54%,
+    rgba(231, 192, 47, 1) 72%,
+    rgba(232, 190, 82, 1) 85%,
+    rgba(255, 171, 0, 1) 100%
+  );
 }
 
 .header-links {
   display: flex;
   gap: 20px;
+}
+
+.sub-header {
+  display: flex;
+  padding: 0 30px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.sub-header-left {
+  flex: 1 1 1;
+  width: 450px;
+}
+
+.sub-header-left button {
+  
 }
