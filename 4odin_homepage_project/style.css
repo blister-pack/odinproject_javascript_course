@@ -87,6 +87,7 @@ a {
   padding: 0 50px;
   flex-wrap: wrap;
   /* I want the little cards to make 2 rows if the viewport is small */
+  height: 300px;
 }
 
 .card {
@@ -101,23 +102,21 @@ a {
   border-radius: 10px;
 }
 
-.quote {
+/* Either I make quote and source separate containers so they stack
+or I put them both in a column oriented container in order to also
+make them stack. I tend to believe this section should be in the
+same container - a container for a quote */
+.quote-cont {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  /* flex-direction: column; */
+  /* align-items: center; */
 }
 
-.quote .quote-cont {
+.quote {
   flex: auto;
-  font-size: 26px;
 }
 
-.quote .quote-source {
-  flex: 1 1 1;
-  size: 200px 200px;
-  text-align: right;
-}
+
 
 .call-to-action {
   display: flex;
@@ -148,3 +147,5 @@ a {
   color: wheat;
   justify-content: center;
 }
+
+/* don't forget to test if everything flexes adequately */
