@@ -81,4 +81,8 @@ later.
 - Finished final flex exercise. And it took a while and I found it quite difficult. Ouch. I do feel like started to understand flexbox better, however. How and when to use containers and how flex-wrap can change the way a page looks. It was hard but it was rewarding.
 
 --14/03/2024
-- Starting the landing page project of the foundations course
+- Starting the homepage project of the foundations course
+- Good progress on the project, exercises definitely paid off, but this will surely take a few hours. Especially to make it look good, not just putting things in the right place.
+
+--15/03/2024
+- Back at it again. Trying to focus on getting things in the right place first. Then I'll take care of the style. Probably works out better that way
