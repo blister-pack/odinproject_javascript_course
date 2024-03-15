@@ -55,7 +55,8 @@ a {
   width: 450px;
 }
 
-.sub-header-left button {
+.sub-header-left button,
+.call-to-action-square button {
   /* I would love to know how to center this */
   border-radius: 10px;
   width: 150px;
@@ -112,10 +113,33 @@ a {
   font-size: 26px;
 }
 
-.quote .quote-source  {
+.quote .quote-source {
   flex: 1 1 1;
   size: 200px 200px;
   text-align: right;
+}
+
+.call-to-action {
+  display: flex;
+  height: 300px;
+  justify-content: center;
+}
+
+.call-to-action-square {
+  display: flex;
+  flex: 1 1 1;
+  width: 600px;
+  justify-content: space-between;
+  align-items: center;
+  margin: 50px;
+  padding: 0 20px;
+  background-color: cornflowerblue;
+  border-radius: 10px;
+  gap: 40px;
+}
+
+.call-left {
+  width: 300px;
 }
 
 .footer {
@@ -123,8 +147,4 @@ a {
   background-color: gray;
   color: wheat;
   justify-content: center;
-}
-
-.footer {
-  align-items: flex-end;
 }
