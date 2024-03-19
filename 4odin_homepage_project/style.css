@@ -100,7 +100,7 @@ a {
 .card img {
   width: 200px;
   border-radius: 10px;
-  border: rgb(111, 197, 236) 6px outset;
+  border: rgb(111, 197, 236) 6px double;
 }
 
 /* Either I make quote and source separate containers so they stack
