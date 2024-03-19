@@ -98,8 +98,9 @@ a {
 }
 
 .card img {
-  size: 100px 100px;
+  width: 200px;
   border-radius: 10px;
+  border: rgb(111, 197, 236) 6px outset;
 }
 
 /* Either I make quote and source separate containers so they stack
@@ -115,8 +116,6 @@ same container - a container for a quote */
 .quote {
   flex: auto;
 }
-
-
 
 .call-to-action {
   display: flex;
