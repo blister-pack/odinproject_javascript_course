@@ -86,3 +86,6 @@ later.
 
 --15/03/2024
 - Back at it again. Trying to focus on getting things in the right place first. Then I'll take care of the style. Probably works out better that way
+
+--19/03/2024
+- A little study session. Had a career fair today and some administrative trouble with the german overlords.
