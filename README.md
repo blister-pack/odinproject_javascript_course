@@ -92,3 +92,6 @@ later.
 
 --20/03/2024
 - Career fair final day. Trying to figure out how to align the quote items adequately. I'm having the most trouble with this. I just figured it out and in the process I figured out that I might be an idiot.
+- Managed to get the quote looking decent.
+- The call to action does not look great, but it looks in the right place
+- When things shrink too much they start looking out of place - I think I need to set minimum content size values so they don't get off the right place
