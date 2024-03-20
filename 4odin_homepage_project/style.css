@@ -111,22 +111,30 @@ same container - a container for a quote */
   display: flex;
   background-color: lightgray;
   flex-direction: column;
-  padding: 50px 70px;
+  padding: 80px 70px;
 }
 
 .quote {
-  flex: 1 1 1;
+  flex: auto;
   font-style: italic;
   font-weight: lighter;
   font-size: 36px;
 }
 
 .quote-source {
-  flex: 1 1 auto;
+  flex: auto;
   /* width: 100px; */
   text-align: right;
   font-weight: bold;
   font-size: 22px;
+}
+
+.quote p {
+  margin-bottom: 0;
+}
+
+.quote-source p {
+  margin-top: 0px;
 }
 
 .call-to-action {
