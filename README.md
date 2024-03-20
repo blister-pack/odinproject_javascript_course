@@ -89,3 +89,6 @@ later.
 
 --19/03/2024
 - A little study session. Had a career fair today and some administrative trouble with the german overlords.
+
+--20/03/2024
+- Career fair final day. Trying to figure out how to align the quote items adequately. I'm having the most trouble with this. I just figured it out and in the process I figured out that I might be an idiot.
