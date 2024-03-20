@@ -134,30 +134,44 @@ same container - a container for a quote */
 }
 
 .quote-source p {
-  margin-top: 0px;
+  margin-top: 0;
 }
 
 .call-to-action {
   display: flex;
   height: 300px;
   justify-content: center;
+  align-items: center;
 }
 
 .call-to-action-square {
   display: flex;
-  flex: 1 1 1;
-  width: 600px;
+  flex: 1 1 auto;
+  width: 1300px;
+  height: 200px;
   justify-content: space-between;
   align-items: center;
   margin: 50px;
   padding: 0 20px;
-  background-color: cornflowerblue;
+  background-color: #3882f6;
   border-radius: 10px;
   gap: 40px;
 }
 
 .call-left {
+  flex: 1 1 auto;
   width: 300px;
+  font-size: 20px;
+  color: white;
+  flex-wrap: wrap;
+}
+
+.call-left p {
+}
+
+#call-title {
+  font-size: 28px;
+  font-weight: bolder;
 }
 
 .footer {
