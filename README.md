@@ -95,3 +95,8 @@ later.
 - Managed to get the quote looking decent.
 - The call to action does not look great, but it looks in the right place
 - When things shrink too much they start looking out of place - I think I need to set minimum content size values so they don't get off the right place
+
+--21/03/2024
+- Hope I can do some more palpable progress in the homepage project. I think I'll start by checking out some colors. I'll also need some potato pics.
+- I'll create a todo list because I often get distracted finding things that need to get done instead of finishing section by section. It's harder to measure progress the way I'm doing it and it also feels like I'm going slowly. Possibly because it's not effective to jump from task to task.
+- I'd love to publish this project on LinkedIn soon, it should look good for such a purpose.
