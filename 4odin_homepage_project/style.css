@@ -66,6 +66,7 @@ a {
   align-items: center;
   background-color: #bdff57;
   color: white;
+  height: 270px;
   /* background: linear-gradient(
     0deg,
     rgba(189, 255, 87, 1) 66%,
@@ -117,10 +118,14 @@ a {
 .body-4cards {
   display: flex;
   justify-content: space-between;
-  padding: 0 50px;
+  padding: 40px 30px;
+
   flex-wrap: wrap;
   /* I want the little cards to make 2 rows if the viewport is small */
-  height: 300px;
+  height: 270px;
+
+  background-color: #ff9957;
+  /* background-color: #bdff57; */
 }
 
 .card {
