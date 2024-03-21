@@ -102,3 +102,4 @@ later.
 - I'd love to publish this project on LinkedIn soon, it should look good for such a purpose.
 - Used a color palette generator to figure out what colors to use
 - Also used a gradient creator that I learned how to use during the DCI starter course
+- Resized a lot of things. Tried making things lot better by making the elements more central. The color palette is well defined. Used some new pictures that look good in the website. Just need to tune some of the homepage things and it should be done! yay
