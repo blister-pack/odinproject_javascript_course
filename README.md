@@ -100,3 +100,5 @@ later.
 - Hope I can do some more palpable progress in the homepage project. I think I'll start by checking out some colors. I'll also need some potato pics.
 - I'll create a todo list because I often get distracted finding things that need to get done instead of finishing section by section. It's harder to measure progress the way I'm doing it and it also feels like I'm going slowly. Possibly because it's not effective to jump from task to task.
 - I'd love to publish this project on LinkedIn soon, it should look good for such a purpose.
+- Used a color palette generator to figure out what colors to use
+- Also used a gradient creator that I learned how to use during the DCI starter course

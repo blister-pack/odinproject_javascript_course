@@ -23,17 +23,21 @@ a {
   align-items: center;
   padding: 0px 30px;
   /* background-color: #dab85f; */
-  background: linear-gradient(
+  /* background: linear-gradient(
     90deg,
     rgba(254, 239, 103, 1) 0%,
-    rgba(236, 217, 107, 1) 10%,
-    rgba(230, 219, 117, 1) 21%,
-    rgba(244, 225, 77, 1) 39%,
-    rgba(228, 196, 76, 1) 54%,
-    rgba(231, 192, 47, 1) 72%,
-    rgba(232, 190, 82, 1) 85%,
-    rgba(255, 171, 0, 1) 100%
+    rgba(255, 237, 87, 1) 46%,
+    rgba(255, 171, 0, 1) 88%
+  ); */
+
+  background: linear-gradient(
+    90deg,
+    rgba(255, 237, 87, 1) 13%,
+    rgba(189, 255, 87, 1) 50%,
+    rgba(255, 153, 87, 1) 85%
   );
+
+  border: black 1px solid;
 }
 
 .header-links {
@@ -46,7 +50,7 @@ a {
   padding: 40px 30px;
   justify-content: space-between;
   align-items: center;
-  background-color: #3882f6;
+  background-color: #bdff57;
   /* this background needs some serious changing */
 }
 
@@ -62,7 +66,7 @@ a {
   width: 150px;
   height: 40px;
   color: white;
-  background-color: rgb(219, 175, 64);
+  background-color: #ff9957;
   outline: none;
   font-family: Montserrat, sans-serif;
   font-weight: 500;
