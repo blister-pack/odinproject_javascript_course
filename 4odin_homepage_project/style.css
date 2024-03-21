@@ -22,6 +22,7 @@ a {
   justify-content: space-between;
   align-items: center;
   padding: 0px 30px;
+  color: white;
   /* background-color: #dab85f; */
   /* background: linear-gradient(
     90deg,
@@ -30,14 +31,22 @@ a {
     rgba(255, 171, 0, 1) 88%
   ); */
 
-  background: linear-gradient(
+  /* background: linear-gradient(
     90deg,
     rgba(255, 237, 87, 1) 13%,
     rgba(189, 255, 87, 1) 50%,
     rgba(255, 153, 87, 1) 85%
-  );
+  ); */
+  /* 
+  background: linear-gradient(
+    0deg,
+    rgba(255, 237, 87, 1) 14%,
+    rgba(189, 255, 87, 1) 48%,
+    rgba(255, 153, 87, 1) 87%
+  ); */
 
-  border: black 1px solid;
+  background: #ff9957;
+  /* border: black 1px solid; */
 }
 
 .header-links {
@@ -51,6 +60,13 @@ a {
   justify-content: space-between;
   align-items: center;
   background-color: #bdff57;
+  color: white;
+  /* background: linear-gradient(
+    0deg,
+    rgba(189, 255, 87, 1) 66%,
+    rgba(255, 237, 87, 1) 85%
+  ); */
+
   /* this background needs some serious changing */
 }
 
@@ -79,10 +95,15 @@ a {
   width: 400px;
 }
 
-#lonely-p {
+.lonely-p {
   text-align: center;
   font-size: 24px;
   font-weight: 600;
+  background-color: #ffed57;
+  margin: 0;
+  padding: 1px 0;
+  height: 60px;
+  color: black;
 }
 
 .body-4cards {
