@@ -188,7 +188,7 @@ same container - a container for a quote */
 .call-to-action-square {
   display: flex;
   flex: 1 1 auto;
-  width: 1300px;
+  width: 100px;
   height: 200px;
   justify-content: space-between;
   align-items: center;
@@ -196,7 +196,6 @@ same container - a container for a quote */
   padding: 0 20px;
   background-color: #bdff57;
   border-radius: 10px;
-  gap: 40px;
 }
 
 .call-left {
