@@ -2,7 +2,7 @@
 
 body {
   font-family: Montserrat, sans-serif;
-  height: 100vh;
+  min-height: 100vh;
   margin: 0px;
   display: flex;
   flex-direction: column;
@@ -24,7 +24,7 @@ a {
   justify-content: center;
   gap: 110px;
   align-items: center;
-  padding: 0px 300px;
+  padding: 0px 150px;
   height: 60px;
   color: white;
   background: #ff9957;
@@ -74,7 +74,7 @@ a {
 
 .sub-header {
   display: flex;
-  padding: 40px 300px;
+  padding: 40px 150px;
   justify-content: space-between;
   align-items: center;
   background-color: #bdff57;
