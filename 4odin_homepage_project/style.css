@@ -214,14 +214,16 @@ same container - a container for a quote */
 }
 
 .call-left {
-  flex: 1 1 auto;
-  width: 300px;
+  flex: 0 1 auto;
+  width: 450px;
   font-size: 20px;
   color: white;
   flex-wrap: wrap;
+  padding-left: 60px;
 }
 
-.call-left p {
+.call-button {
+  padding-right: 60px;
 }
 
 #call-title {
