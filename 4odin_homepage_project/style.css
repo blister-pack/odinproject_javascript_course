@@ -4,6 +4,8 @@ body {
   font-family: Montserrat, sans-serif;
   height: 100vh;
   margin: 0px;
+  display: flex;
+  flex-direction: column;
 }
 
 ul {
@@ -118,7 +120,8 @@ a {
 .body-4cards {
   display: flex;
   justify-content: center;
-  padding: 40px ;
+  padding: 40px 0;
+  gap: 80px;
 
   flex-wrap: wrap;
   /* I want the little cards to make 2 rows if the viewport is small */
