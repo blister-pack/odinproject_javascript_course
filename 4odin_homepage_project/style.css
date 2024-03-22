@@ -77,11 +77,11 @@ a {
 
   /* this background needs some serious changing */
 }
-
 .sub-header-left {
   flex: 1 1 1;
   width: 450px;
 }
+
 
 .sub-header-left button,
 .call-to-action-square button {
@@ -119,6 +119,7 @@ a {
 
 .body-4cards {
   display: flex;
+  flex: auto;
   justify-content: center;
   padding: 40px 0;
   gap: 80px;
