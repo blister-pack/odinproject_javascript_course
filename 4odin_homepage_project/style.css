@@ -134,11 +134,9 @@ a {
   flex: 1 1 1;
   justify-content: center;
   padding: 40px 0;
-  gap: 80px;
-  /* min-height: 270px; */
+  gap: 2px;
 
   flex-wrap: wrap;
-  /* flex-flow: column wrap; */
   /* I want the little cards to make 2 rows if the viewport is small */
   background-color: #ff9957;
   /* background-color: #bdff57; */
@@ -151,6 +149,7 @@ a {
   justify-content: center;
   align-items: center;
   height: 270px;
+  width: 70px;
 }
 
 .card img {
