@@ -117,8 +117,8 @@ a {
 
 .body-4cards {
   display: flex;
-  justify-content: space-between;
-  padding: 40px 400px;
+  justify-content: center;
+  padding: 40px ;
 
   flex-wrap: wrap;
   /* I want the little cards to make 2 rows if the viewport is small */
