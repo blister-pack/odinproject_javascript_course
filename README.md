@@ -103,3 +103,6 @@ later.
 - Used a color palette generator to figure out what colors to use
 - Also used a gradient creator that I learned how to use during the DCI starter course
 - Resized a lot of things. Tried making things lot better by making the elements more central. The color palette is well defined. Used some new pictures that look good in the website. Just need to tune some of the homepage things and it should be done! yay
+
+--22/03/2024
+- Website seems almost done. Need to resize some of the elements and take care that they flex adequately. Hopefully this will be done today and I will be able to deploy. Let's see.
