@@ -1,8 +1,8 @@
 -- LIST OF TASKS
 - [fix] picture section gets messed up when subtitles get too long
-- [fix] spacing between thumbnail pics
 - [fix] button on the bottom looks ugly
 
+x [fix] spacing between thumbnail pics
 x "main sections" should be the same size [height]
     x resize 4 photo section
 x [fix] Header looks weird with a small viewport
