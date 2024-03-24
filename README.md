@@ -109,3 +109,10 @@ later.
 - Apparently using the height property in the container that is supposed to wrap messes up the wrap somehow and I cannot define the containers height that way. The images would get cut. So instead I have to define the height of the image containers. And it only took me about 1.5 hours to figure it out. Great :)
 - Also solved the problem with the spacing between the thumbnails. Apparently the flex property was making the cards expand and keeping me from resizing as I wished to. Took me a while to figure it out.
 - Don't really understand the difference between min-height and height in the body defined through CSS
+
+--23/03/2024
+- Published my website
+- Got started on Javascript. What a weird programming language.
+
+--24/03/2024
+- Continuation of the Javascript studies.
