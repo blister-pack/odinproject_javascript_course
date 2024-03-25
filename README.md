@@ -116,3 +116,7 @@ later.
 
 --24/03/2024
 - Continuation of the Javascript studies.
+- Completed the lesson on operators. Not much of a difference from python
+
+--25/03/2024
+- JS Data types and Conditionals
