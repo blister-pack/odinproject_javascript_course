@@ -120,3 +120,6 @@ later.
 
 --25/03/2024
 - JS Data types and Conditionals
+
+--26/03/2024
+- Continuation of last lesson
