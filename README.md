@@ -123,3 +123,6 @@ later.
 
 --26/03/2024
 - Continuation of last lesson
+
+--27/03/2024
+- Same as yesterday. There's so much reading to do.
