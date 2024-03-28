@@ -126,3 +126,7 @@ later.
 
 --27/03/2024
 - Same as yesterday. There's so much reading to do.
+
+--28/03/2024
+- Last day of the DCI course. From now on I'm really learning by myself. Let's see what I can do.
+- Today I think I can really program. I'm so tired of all the reaaaaaadiiiiing. Might need to find some other method of taking these lessons So I'm a bit more excited and focused.
