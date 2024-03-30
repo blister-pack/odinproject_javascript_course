@@ -131,3 +131,6 @@ later.
 - Last day of the DCI course. From now on I'm really learning by myself. Let's see what I can do.
 - Today I think I can really program. I'm so tired of all the reaaaaaadiiiiing. Might need to find some other method of taking these lessons So I'm a bit more excited and focused.
 - Data types and conditionals of the JS foundations complete. What a booooring lesson. I want to code more. We went into wayyyyy too much for what was used in the exercises.
+
+--30/03/2024
+- JS developer tools lesson
