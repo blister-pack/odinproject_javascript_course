@@ -134,3 +134,8 @@ later.
 
 --30/03/2024
 - JS developer tools lesson
+- It's really hard to get through so much reading...
+
+--31/03/2024
+- I'm slowing down too much. But it's really hard to get through all these docs. Pushing more through today.
+- Function basics (finally something interesting)
