@@ -140,3 +140,7 @@ later.
 - I'm slowing down too much. But it's really hard to get through all these docs. Pushing more through today.
 - Function basics (finally something interesting)
 - Completed the lesson. Exercises are okay. As always, the reading part of these lessons is just too long. I get overwhelming info I don't get to use, meaning I will forget it. Also the amount of repetition between articles makes it so much more tedious.
+
+--01/04/2024
+- Today I will do nothing but program until I finish The Odin Project. April Fool's. Ha. Ha.
+- Problem solving lesson
