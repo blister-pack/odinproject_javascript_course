@@ -144,3 +144,6 @@ later.
 --01/04/2024
 - Today I will do nothing but program until I finish The Odin Project. April Fool's. Ha. Ha.
 - Problem solving lesson
+
+--02/04/2024
+- Learning how to fix errors
