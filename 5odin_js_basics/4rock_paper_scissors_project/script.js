@@ -8,7 +8,7 @@ function getUserMove() {
     if (moves_list.includes(formatted_player_move)) {
         return formatted_player_move;
     } else {
-        alert("Your move is not valid. Refresh to try again.")
+        alert("Your move is not valid. Refresh to try again.");
     }
 }
 
@@ -23,21 +23,21 @@ function roundPlay(playerSelection, computerSelection) {
     // this function returns the winner of the round
     if (playerSelection == computerSelection) {
         // draw
-        return `That's a draw, the player and the computer chose the same move!`
+        return `That's a draw, the player and the computer chose the same move!`;
     } else if ((playerSelection == "rock" && computerSelection == "scissors") || (playerSelection == "paper" && computerSelection == "rock") || (playerSelection == "scissors" && computerSelection == "paper")) {
         // win
         roundResultMessage(true, playerSelection, computerSelection);
     } else {
         // lose
-        roundResultMessage(false, playerSelection, computerSelection)
+        roundResultMessage(false, playerSelection, computerSelection);
     }
 
 }
 
 function roundResultMessage(win = true, playerSelection, computerSelection) {
     // this is just meant to capitalize the moves, yes this could have probably been avoided
-    let formatted_playerSelection = playerSelection.charAt(0).toUpperCase() + playerSelection.slice(1)
-    let formatted_computerSelection = computerSelection.charAt(0).toUpperCase() + computerSelection.slice(1)
+    let formatted_playerSelection = playerSelection.charAt(0).toUpperCase() + playerSelection.slice(1);
+    let formatted_computerSelection = computerSelection.charAt(0).toUpperCase() + computerSelection.slice(1);
 
 
     if (win === true) {
