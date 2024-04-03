@@ -6,6 +6,7 @@ function getUserMove() {
     let player_move = prompt("Rock, paper or scissors? Choose your move!");
     let formatted_player_move = player_move.toLowerCase();
     if (moves_list.includes(formatted_player_move)) {
+        console.log("player:" + formatted_player_move);
         return formatted_player_move;
     } else {
         alert("Your move is not valid. Refresh to try again.");
@@ -16,6 +17,7 @@ function getComputerChoice() {
     // this function returns the choice of the computer (random)
     let choice = Math.floor(Math.random() * 3);
     // 0 is rock; 1 is paper; 2 is scissors
+    console.log("pc: " + moves_list[choice]);
     return moves_list[choice];
 }
 
@@ -23,13 +25,13 @@ function roundPlay(playerSelection, computerSelection) {
     // this function returns the winner of the round
     if (playerSelection == computerSelection) {
         // draw
-        return `That's a draw, the player and the computer chose the same move!`;
+        console.log(`That's a draw, the player and the computer chose the same move!`);
     } else if ((playerSelection == "rock" && computerSelection == "scissors") || (playerSelection == "paper" && computerSelection == "rock") || (playerSelection == "scissors" && computerSelection == "paper")) {
         // win
-        roundResultMessage(true, playerSelection, computerSelection);
+        console.log(roundResultMessage(true, playerSelection, computerSelection));
     } else {
         // lose
-        roundResultMessage(false, playerSelection, computerSelection);
+        console.log(roundResultMessage(false, playerSelection, computerSelection));
     }
 
 }
@@ -55,4 +57,4 @@ function playGame(params) {
 }
 
 
-console.log(getUserMove());
+roundPlay(getUserMove(), getComputerChoice())
