@@ -16,11 +16,15 @@ function getComputerChoice() {
     // this function returns the choice of the computer (random)
     let choice = Math.floor(Math.random() * 3);
     // 0 is rock; 1 is paper; 2 is scissors
-    return choice;
+    return moves_list[choice];
 }
 
 function roundPlay(playerSelection, computerSelection) {
     // this function returns the winner of the round
+    if (playerSelection == computerSelection) {
+        // draw
+    }
+
 }
 
 function playGame(params) {
@@ -29,4 +33,4 @@ function playGame(params) {
 }
 
 
-getUserMove()
+console.log(getUserMove());
