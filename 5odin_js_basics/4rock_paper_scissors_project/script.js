@@ -51,10 +51,16 @@ function roundResultMessage(win = true, playerSelection, computerSelection) {
     }
 }
 
-function playGame(params) {
+function playGame() {
     // this function plays a game of janken with 5 rounds
+    for (let index = 0; index < 5; index++) {
+        // each loop is a round
+        console.log(index);
+        
+    }
     
 }
 
 
-roundPlay(getUserMove(), getComputerChoice())
+// roundPlay(getUserMove(), getComputerChoice())
+playGame()
