@@ -148,3 +148,6 @@ later.
 --02/04/2024
 - Learning how to fix errors
 - Finished the lesson, project tomorrow
+
+--03/04/2024
+- Time to start the rock, paper, scissors project
