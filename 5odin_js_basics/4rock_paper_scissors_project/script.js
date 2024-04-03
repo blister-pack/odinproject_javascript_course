@@ -53,10 +53,23 @@ function roundResultMessage(win = true, playerSelection, computerSelection) {
 
 function playGame() {
     // this function plays a game of janken with 5 rounds
+    let player_score = 0;
+    let pc_score = 0;
+
     for (let index = 0; index < 5; index++) {
         // each loop is a round
-        console.log(index);
-        
+        let round_end_message = roundPlay(getUserMove(), getComputerChoice());
+
+        if (round_end_message.includes("draw") === true) {
+            break;
+        } else if (round_end_message.includes("win") === true) {
+            player_score++;
+        } else if (round_end_message.includes("lose") === true) {
+            pc_score++;
+        }
+        // if one of these messages had both keywords, would it increment in both places?
+        console.log(`PLAYER SCORE: ${player_score}`);
+        console.log(`PC SCORE: ${pc_score}`);
     }
     
 }
