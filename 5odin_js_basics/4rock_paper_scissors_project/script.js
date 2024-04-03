@@ -23,15 +23,13 @@ function roundPlay(playerSelection, computerSelection) {
     // this function returns the winner of the round
     if (playerSelection == computerSelection) {
         // draw
-    } else if (playerSelection == "rock" && computerSelection == "scissors") {
+        return `That's a draw, the player and the computer chose the same move!`
+    } else if ((playerSelection == "rock" && computerSelection == "scissors") || (playerSelection == "paper" && computerSelection == "rock") || (playerSelection == "scissors" && computerSelection == "paper")) {
         // win
-    } else if (playerSelection == "paper" && computerSelection == "rock") {
-        // win
-    } else if (playerSelection == "scissors" && computerSelection == "paper") {
-        // win
+        roundResultMessage(true, playerSelection, computerSelection);
     } else {
         // lose
-        return `You lose! ${computerSelection}`
+        roundResultMessage(false, playerSelection, computerSelection)
     }
 
 }
