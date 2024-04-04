@@ -158,3 +158,4 @@ later.
 - Finished the project.
 - Writing clean code lesson finished - good insights!
 - Installed Node. Another lesson
+- Starting arrays and loops lesson
