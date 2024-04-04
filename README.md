@@ -157,3 +157,4 @@ later.
 - Time to finish the project. Hopefully it will be straightforward.
 - Finished the project.
 - Writing clean code lesson finished - good insights!
+- Installed Node. Another lesson
