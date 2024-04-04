@@ -151,3 +151,7 @@ later.
 
 --03/04/2024
 - Time to start the rock, paper, scissors project
+- Did almost everything regarding the project. Getting some error I don't really understand and don't know how to debug too well. I'll look into it tomorrow.
+
+--04/04/2024
+- Time to finish the project. Hopefully it will be straightforward.
