@@ -156,3 +156,4 @@ later.
 --04/04/2024
 - Time to finish the project. Hopefully it will be straightforward.
 - Finished the project.
+- Writing clean code lesson finished - good insights!
