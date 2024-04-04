@@ -27,7 +27,10 @@ function roundPlay(playerSelection, computerSelection) {
         // draw
         console.log(`That's a draw, the player and the computer chose the same move!`);
         return `draw`;
-    } else if ((playerSelection == "rock" && computerSelection == "scissors") || (playerSelection == "paper" && computerSelection == "rock") || (playerSelection == "scissors" && computerSelection == "paper")) {
+    } else if ((playerSelection == "rock" && computerSelection == "scissors") ||
+        (playerSelection == "paper" && computerSelection == "rock") ||
+        (playerSelection == "scissors" && computerSelection == "paper"))
+    {
         // win
         console.log(roundResultMessage(true, playerSelection, computerSelection));
         return `win`;
