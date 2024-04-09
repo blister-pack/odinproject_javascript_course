@@ -159,3 +159,6 @@ later.
 - Writing clean code lesson finished - good insights!
 - Installed Node. Another lesson
 - Starting arrays and loops lesson
+
+--05/04/2024
+- Very small coding sesh
