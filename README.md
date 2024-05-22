@@ -162,3 +162,7 @@ later.
 
 --05/04/2024
 - Very small coding sesh
+
+--18/04/2024
+- Been a while, today I'll keep going on the arrays lesson.
+- I've getting an interest in Arduino
