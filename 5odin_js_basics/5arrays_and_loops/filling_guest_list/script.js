@@ -14,7 +14,8 @@ for (const person of people) {
     }
 }
 // how can I select and reassign the last 2 chars just like in Python?
-admitted.textContent.slice(-2) = ""
+admitted.textContent = admitted.textContent.slice(0, admitted.textContent.length-2) + "."
+refused.textContent = refused.textContent.slice(0, refused.textContent.length-2) + "."
 
 // refused.textContent += ;
 // admitted.textContent += ;
