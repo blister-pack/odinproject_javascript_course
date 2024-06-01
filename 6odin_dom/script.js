@@ -23,3 +23,26 @@ weirdDiv.appendChild(weirdH1);
 const weirdP = document.createElement("p");
 weirdP.textContent = "ME TOO!";
 weirdDiv.appendChild(weirdP);
+
+
+// playing around with event listeners
+
+function alertFunc() {
+    alert("YAY! YOU DID IT!");
+}
+
+const btn = document.querySelector("#btn")
+
+// btn.addEventListener("click", alertFunc);
+
+// btn.addEventListener("click", function (e) {
+//     console.log(e);
+// });
+    
+// btn.addEventListener("click", function (e) {
+//     console.log(e.target);
+//     });
+
+btn.addEventListener("click", function (e) {
+    e.target.style.background = "blue";
+    });
