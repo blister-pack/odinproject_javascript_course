@@ -2,9 +2,11 @@ const input = document.querySelector("#item");
 const btn = document.querySelector("button");
 const itemList = document.querySelector("ul");
 
+
 const addItem = function() {
-    let itemName = input.textContent;
-    input.textContent = "";
+    let itemName = input.value;
+    console.log(itemName);
+    input.value = "";
 
     const itemLi = document.createElement("li");
     const itemSpan = document.createElement("span");
@@ -15,9 +17,17 @@ const addItem = function() {
 
     itemSpan.textContent = itemName;
     itemBtn.textContent = "Delete Item";
+    itemBtn.addEventListener("click", deleteItem);
 
     itemList.appendChild(itemLi);
-    focus(input);
+    input.focus();
 };
 
 btn.addEventListener("click", addItem);
+
+
+const deleteItem = function () {
+    // use query selector to get parent
+    // it should be the li
+    // delete the li
+};
