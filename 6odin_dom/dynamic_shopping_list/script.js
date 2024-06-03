@@ -27,12 +27,5 @@ btn.addEventListener("click", addItem);
 
 
 const deleteItem = function (clickedButton) {
-    // use query selector to get parent
-    // it should be the li
-    // delete the li
-
-    // const toDelete = document.querySelector("li");
-    // itemList.removeChild(toDelete);
-
     clickedButton.parentElement.remove();
 };
