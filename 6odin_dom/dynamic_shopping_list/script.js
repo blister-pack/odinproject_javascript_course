@@ -17,7 +17,7 @@ const addItem = function() {
 
     itemSpan.textContent = itemName;
     itemBtn.textContent = "Delete Item";
-    itemBtn.addEventListener("click", deleteItem);
+    itemBtn.addEventListener("click", () => { deleteItem(itemBtn); });
 
     itemList.appendChild(itemLi);
     input.focus();
@@ -26,8 +26,13 @@ const addItem = function() {
 btn.addEventListener("click", addItem);
 
 
-const deleteItem = function () {
+const deleteItem = function (clickedButton) {
     // use query selector to get parent
     // it should be the li
     // delete the li
+
+    // const toDelete = document.querySelector("li");
+    // itemList.removeChild(toDelete);
+
+    clickedButton.parentElement.remove();
 };
