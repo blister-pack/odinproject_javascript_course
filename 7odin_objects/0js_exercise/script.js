@@ -24,7 +24,6 @@ schedule["wakeUp"] = "8:30";
 console.log((isEmpty(schedule))); // should return false
 
 // exercise 3
-
 let salaries = {
     John: 100,
     Ann: 160,
@@ -41,3 +40,22 @@ function countSalary(allSalaries) {
 }
 
 console.log(countSalary(salaries));
+
+// exercise 4
+function multiplyNumeric(obj) {
+    // this function multiply any object property that is numeric by 2
+    for (let prop in obj) {
+        if (typeof obj[prop] === "number") {
+            obj[prop] *= 2;
+        }
+    }
+}
+
+let menu = {
+    width: 200,
+    height: 300,
+    title: "My menu"
+};
+
+multiplyNumeric(menu);
+console.log(menu);
