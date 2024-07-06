@@ -10,3 +10,15 @@ delete user["name"];
 console.log(user.name);
 
 // exercise 2
+function isEmpty(objToCheck) {
+    // checks if object has properties
+    for (let key in objToCheck) {
+        return false;
+    }
+    return true;
+}
+
+let schedule = {};
+console.log((isEmpty(schedule))); // should return true
+schedule["wakeUp"] = "8:30";
+console.log((isEmpty(schedule))); // should return false
